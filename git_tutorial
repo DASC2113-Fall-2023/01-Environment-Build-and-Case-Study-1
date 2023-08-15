@@ -1,0 +1,19 @@
+In the bash shell, type:
+
+Clone the reposistory using the HTTPS Clone link in GitLab
+>>git clone https://git.uark.edu/dasc-2113/module-2.git
+
+Make a change (in this case, I added a file called teams.ipynb)
+
+Add the file to the local reposistory
+>>git add teams.ipynb
+
+Commit the change to the local reposistory with a commit message
+>>git commit -m 'added notebook to randomly generate teams'
+
+Push your lcoal repository changes to the central repository
+>>git push
+
+
+
+
