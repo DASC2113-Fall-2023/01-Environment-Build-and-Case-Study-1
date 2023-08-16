@@ -26,8 +26,10 @@
         * Data preparation, exploration, and visualization
         * Experimentation and prediction methods
 
+## 2. Familiarize yourself with Git
+* https://carpentries.github.io/workshop-template/install_instructions/#git
 
-## 2. Case Study: 20,000 Board Games
+## 3. Case Study: 20,000 Board Games
 
 * Pull and complete the [Case Study notebook](https://git.uark.edu/dasc-2113/module-01/-/blob/master/Case_Study_-_20_000_Board_Games_-_Student.ipynb) starter code & your assigned dataset from the [data folder](https://git.uark.edu/dasc-2113/module-01/-/tree/master/Data) (both contained in this repository--see above) 
     * For each exercise in the case study, write and run the appropriate code to find the answer.
