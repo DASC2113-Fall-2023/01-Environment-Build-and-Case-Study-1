@@ -150,24 +150,6 @@ If you already have git installed (or think you do) start with step 2. It `git` 
 [git-download]: [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git]
 [git-scm]: [https://git-scm.com/install-guide/macos]
 
-### Fork or Clone a Project
-
-1. If you've got a project open in PyCharm, `File` menu -> `Close Project`.
-   You should see a window titled `Welcome to PyCharm`.
-
-2. Go to a project page in gitlab, for example
-   https://github.com/dasc2113/course-intro-and-setup
-
-3. Click `Clone`, then click the Copy URL button next to `Clone with SSH`.
-
-4. Back on the PyCharm Welcome screen, click `Get from VCS`.
-
-5. Paste in the URL you copied from gitlab.
-
-6. Go to the `View` menu and select `Scientific Mode` to get the same layout
-   you saw before.
-
-
 ## Additional Resources for Python Learning
 
 Two to five days's worth of self-instruction: <http://scipy-lectures.org/>
