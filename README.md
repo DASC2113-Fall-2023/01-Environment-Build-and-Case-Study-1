@@ -1,10 +1,8 @@
 # Overview
 ## Objectives
 1. Python review, introduction to GitHub
-2. Downloading/installing course software
-3. Introduction to data types (nominal, ordinal, categorical, rational)
-4. Data collection and storage
-
+2. Download and install course software
+3. Learn basic Bash shell scripting
 
 ## Skill Development
 * **Data Science Principles:** understand data science workflow and applications, data types, metadata
@@ -26,8 +24,9 @@
         * Data preparation, exploration, and visualization
         * Experimentation and prediction methods
 
-## 2. Familiarize yourself with Git
+## 2. Learn to write scripts in the Bash Shell in Windows and MacOS
 * https://carpentries.github.io/workshop-template/install_instructions/#git
+* https://swcarpentry.github.io/shell-novice/index.html
 
 ## 3. Case Study: 20,000 Board Games
 
