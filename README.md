@@ -12,7 +12,7 @@
 
 
 # Deliverables
-## 1. DataCamp Assignments
+## 1. DataCamp Assignments (Weeks 1 and 2)
 * Sign up for a class DataCamp account [with this link](https://www.datacamp.com/groups/shared_links/3312cfd78acb27a8fcb9593b540119e6b6232fde2050f31ab675a1dfcc9252d4), **using your UARK email**
 * Complete the assigned **DataCamp courses** by logging in to *DataCamp > Organizations > My Assignments*:
     * [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
@@ -24,11 +24,14 @@
         * Data preparation, exploration, and visualization
         * Experimentation and prediction methods
 
-## 2. Learn to write scripts in the Bash Shell in Windows and MacOS
+## 2. Learn to write scripts in the Bash Shell in Windows and MacOS (Week 1)
 * https://carpentries.github.io/workshop-template/install_instructions/#git
 * https://swcarpentry.github.io/shell-novice/index.html
 
-## 3. Case Study: 20,000 Board Games
+## 3. Learn to set up conda environments in Python (Week 1)
+* https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/
+
+## 4. Case Study: 20,000 Board Games (Week 2)
 
 * Pull and complete the [Case Study notebook](https://git.uark.edu/dasc-2113/module-01/-/blob/master/Case_Study_-_20_000_Board_Games_-_Student.ipynb) starter code & your assigned dataset from the [data folder](https://git.uark.edu/dasc-2113/module-01/-/tree/master/Data) (both contained in this repository--see above) 
     * For each exercise in the case study, write and run the appropriate code to find the answer.
