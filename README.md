@@ -13,7 +13,7 @@
 
 # Deliverables
 ## 1. DataCamp Assignments (Weeks 1 and 2)
-* Sign up for a class DataCamp account [with this link](https://www.datacamp.com/groups/shared_links/3312cfd78acb27a8fcb9593b540119e6b6232fde2050f31ab675a1dfcc9252d4), **using your UARK email**
+* Sign up for a class DataCamp account [with this link](https://www.datacamp.com/groups/shared_links/a954c330c0aeaf418901701fab17ded3f319c459eb9458bce567aa043c2679e6), **using your UARK email**
 * Complete the assigned **DataCamp courses** by logging in to *DataCamp > Organizations > My Assignments*:
     * [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)
         * Basic python concepts and definitions
